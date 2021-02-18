@@ -1,2 +1,1 @@
-# qido-admin-kit
-QiDo Admin Kit (Organization)
+# QiDo Admin Kit (Organization)
